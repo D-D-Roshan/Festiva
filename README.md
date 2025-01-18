@@ -1,4 +1,4 @@
-# Online Event Management System
+# Festiva an Online Event Management System
 
 ## Overview
 The Online Event Management System is a platform that enables users to book events and provides administrators with tools to manage events, bookings, and users effectively.
